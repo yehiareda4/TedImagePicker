@@ -47,4 +47,4 @@ dependencies {
     implementation 'com.alexvasilkov:gesture-views:2.5.2'
 }
 
-apply plugin: "com.vanniktech.maven.publish"
+//apply plugin: "com.vanniktech.maven.publish"
